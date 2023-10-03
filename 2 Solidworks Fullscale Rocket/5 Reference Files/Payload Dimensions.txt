@@ -1,0 +1,1 @@
+﻿"airframeInnerDiameter"= 6in"outerDiameter"= 6.112in"airframeThickness" = .056in"airframeBulkheadThickness"= 0.125in"payloadAirframeLength"= 10in"payloadInnerDiameter"= 6in - "airframeThickness""payloadOuterDiameter"= "airframeInnerDiameter""totalPayloadLength" = 12in"strutWidth" = 0.5in"rodDiameter" = 0.25in"rodSeperation" = 1.625in"plateThickness" = .375in

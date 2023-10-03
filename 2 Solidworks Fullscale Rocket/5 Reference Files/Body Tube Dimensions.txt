@@ -1,0 +1,4 @@
+﻿"atsFlapWidth" = 1.5in
+"atsFlapThickness" = 0.125in
+"motorCasingOuterDiameter"= 3in
+"motorCasingCenteringRingThickness"= 0.25in

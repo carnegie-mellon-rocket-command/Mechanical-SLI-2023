@@ -1,0 +1,6 @@
+"shoulder_thickness"=
+"nose_thickness"= 0.056
+"base_diameter"= 6.112
+"length_diameter_ratio"= 
+"connection_length"= 
+"shoulder_length"= 

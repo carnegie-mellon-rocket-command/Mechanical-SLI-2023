@@ -1,0 +1,18 @@
+[StartTime]
+ATS_assemb-Static 2.MFC=
+[SolverState]
+ATS_assemb-Static 2.MFC=2
+[MainFrame]
+ATS_assemb-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEDAAAAAHNBAAAAAELEAAAAAKKCAAAAA
+[ShowMin]
+ATS_assemb-Static 2.MFC=yes
+[SolverType]
+ATS_assemb-Static 2.MFC=Linear Analysis
+[StudyType]
+ATS_assemb-Static 2.MFC=-1
+[StudyName]
+ATS_assemb-Static 2.MFC=Static 2
+[Solver]
+ATS_assemb-Static 2.MFC=Iterative
+[Dynamic]
+ATS_assemb-Static 2.MFC=0

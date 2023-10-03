@@ -1,0 +1,18 @@
+[StartTime]
+Motor Platform-DC-Static 1.MFC=1s
+[SolverState]
+Motor Platform-DC-Static 1.MFC=2
+[MainFrame]
+Motor Platform-DC-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+Motor Platform-DC-Static 1.MFC=No
+[SolverType]
+Motor Platform-DC-Static 1.MFC=Linear Analysis
+[StudyType]
+Motor Platform-DC-Static 1.MFC=0
+[StudyName]
+Motor Platform-DC-Static 1.MFC=Static 1
+[Solver]
+Motor Platform-DC-Static 1.MFC=Iterative
+[Dynamic]
+Motor Platform-DC-Static 1.MFC=0

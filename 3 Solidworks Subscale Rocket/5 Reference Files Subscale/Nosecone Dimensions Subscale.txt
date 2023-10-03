@@ -1,0 +1,7 @@
+"shoulder_thickness"= 
+"nose_thickness"= 
+"base_diameter"= 
+"length_diameter_ratio"= 
+"connection_length"= 
+“ogive_radius”=
+"shoulder_length"= 

@@ -1,0 +1,16 @@
+[StartTime]
+SUS (Reduced Drag Design)-Static 1.MFC=1s
+[SolverState]
+SUS (Reduced Drag Design)-Static 1.MFC=2
+[MainFrame]
+SUS (Reduced Drag Design)-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMEEAAAAAHGCAAAAAELFAAAAAKDDAAAAA
+[ShowMin]
+SUS (Reduced Drag Design)-Static 1.MFC=No
+[SolverType]
+SUS (Reduced Drag Design)-Static 1.MFC=Linear Analysis
+[StudyType]
+SUS (Reduced Drag Design)-Static 1.MFC=0
+[StudyName]
+SUS (Reduced Drag Design)-Static 1.MFC=Static 1
+[Solver]
+SUS (Reduced Drag Design)-Static 1.MFC=Sparse

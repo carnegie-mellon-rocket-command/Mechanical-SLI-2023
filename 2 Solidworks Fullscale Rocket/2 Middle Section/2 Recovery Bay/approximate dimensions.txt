@@ -1,0 +1,17 @@
+mount_length = 0.182
+mount_width = 0.05
+distance_between_mount = 0.95
+
+battery_length_with_terminal = 1.8in
+battery_length = 1.7
+battery_width = 1.015
+battery_height = 0.666
+
+log_width = 0.845
+log_length = 2.01
+log_height = 0.51
+
+terminal_thickness = 0.16
+
+
+

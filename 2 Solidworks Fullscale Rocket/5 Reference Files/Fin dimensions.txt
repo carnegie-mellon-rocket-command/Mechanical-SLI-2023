@@ -1,0 +1,8 @@
+"Sweep Angle" = 40
+"Leading Edge Radius" =
+"Trailing Edge Radius"=
+"Tab height" = 0.875
+"Thicckess" = 0.187
+"Tip Chord Length" = 5
+"Root Chord Length" = 8
+"Height" = 7.5

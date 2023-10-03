@@ -1,0 +1,8 @@
+"Sweep Angle" = 40
+"Leading Edge Fillet" =
+"Trailing Edge Fillet"=
+"Tab height" = 0.745
+"Thicckness" = 0.125
+"Tip Chord Length" = 2.5
+"Root Chord Length"=4
+"Height" = 3.75
